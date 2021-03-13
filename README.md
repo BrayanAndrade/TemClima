@@ -16,4 +16,4 @@ Uma aplicação em React Native integrada com a <a href="https://hgbrasil.com/st
 - [x] Axios
 
 # Screenshot
-<img width="100%" src="temclima.gif">
+<img width="80%" src="temclima.gif">
